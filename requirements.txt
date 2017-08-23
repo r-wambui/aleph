@@ -62,3 +62,9 @@ functools32>=3.2
 
 # Testing
 -r requirements-testing.txt
+
+#crawlers
+git+https://github.com/gazeti/aleph-ng-gazette-crawler.git@develop
+git+https://github.com/gazeti/aleph-ke-gazette-crawler.git@develop
+git+https://github.com/gazeti/aleph-sn-gazette-crawler.git@develop
+git+https://github.com/gazeti/aleph-sl-gazette-crawler.git@develop
